@@ -715,12 +715,15 @@ premium services
 - [Streamlord](http://www.streamlord.com/) Unique design, HD server (subtitles)
 - [FlixGo](https://flixgo.net/) Unique design, HD server, very nice speeds
 - [Solarmovie](https://solarmoviez.ru/solar.html) Basic streaming site layout, HD server with additional hosts, Popular Site
-- [HDFlix](http://hdflix.net/) Basic streaming site layout, HD server with additional hosts
+- [HDFlix](https://hdflix.net/) Basic streaming site layout, HD server with additional hosts
 - [Yes! Movies](https://yesmovies.to) Basic streaming site layout, HD server with additional hosts
 - [Spacemov](http://spacemov.io/) Basic streaming site layout, HD server, only certain films have additional hosts
 - [HDOnline](https://www1.hdonline.eu) Basic streaming site layout, HD server with additional hosts
 - [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents)
 - [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
+- [123movieshub](https://123movieshub.vip/) Basic streaming site layout, HD server with additional hosts
+- [yesmovies](https://yesmovies.fun/) Basic streaming site layout, HD server with additional hosts
+- [yifymovies](https://yifymovies.fun/) Basic streaming site layout, HD server with additional hosts
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
